@@ -1,5 +1,5 @@
 _repo: The-Letters-of-Horace-Walpole-Earl-of-Orford-Volume-2_4610
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Legislators -- Great Britain -- Correspondence'
 - !lcsh 'Nobility -- Great Britain -- Correspondence'
 - !lcsh 'Walpole, Horace, 1717-1797 -- Correspondence'
+- GITenberg
 title: The Letters of Horace Walpole, Earl of Orford — Volume 2
 url: http://www.gutenberg.org/ebooks/4610
